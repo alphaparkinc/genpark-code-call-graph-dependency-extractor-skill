@@ -1,0 +1,20 @@
+{
+  "name": "genpark-code-call-graph-dependency-extractor-skill",
+  "version": "1.0.0",
+  "description": "Static function call graph and module import dependency analyzer using Python AST inspection",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "call-graph",
+    "dependency-analysis",
+    "ast-parser",
+    "code-intelligence",
+    "refactoring",
+    "python-standard-library",
+    "agent-skills",
+    "developer-tools",
+    "graph-theory",
+    "autonomous-coding"
+  ]
+}
