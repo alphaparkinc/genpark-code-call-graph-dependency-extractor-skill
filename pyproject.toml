@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-code-call-graph-dependency-extractor-skill"
+version = "1.0.0"
+description = "Static function call graph and module import dependency analyzer using Python AST inspection"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
